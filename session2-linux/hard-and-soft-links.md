@@ -192,7 +192,5 @@ This is the main practical difference between hard links and soft links.
 
 ### Screenshot
 
-Paste a screenshot showing that `cat hard-link.txt` succeeds but `cat soft-link.txt` gives an error.
-
 ![Behaviour after deleting the original file](screenshots/08-delete-original.png)
 
